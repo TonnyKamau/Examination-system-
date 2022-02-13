@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Avatar">
+    <file>Images/avatar.png</file>
+  </qresource>
+  <qresource prefix="Icon">
+    <file>Images/Icon.ico</file>
+  </qresource>
+  <qresource prefix="Logo">
+    <file>Images/EXAM logo_0.png</file>
+  </qresource>
+</RCC>
